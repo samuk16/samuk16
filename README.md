@@ -2,7 +2,7 @@
 
 
 ##  Contact Me :speech_balloon:
- [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelolamas19@gmail.com)](mailto:marcelolamas19@gmail.com) 
+ [![Gmail Badge](https://img.shields.io/badge/-marcelolamas19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelolamas19@gmail.com)](mailto:marcelolamas19@gmail.com) 
 
 <!--
 **samuk16/samuk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
