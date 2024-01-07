@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-##  Contact Me :speech_balloon:
+### :speech_balloon: | Contact Me 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcelolamas19@gmail.com)
 
 
