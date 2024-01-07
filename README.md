@@ -6,8 +6,12 @@
   ![HTML5](https://img.shields.io/badge/HTML5-blue?logo=html5&color=272629)
   ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&color=272629)
   ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=blue&color=272629)
-  
-  
+ 
+  - 🌱 I’m currently learning &#160; 
+   ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&color=272629)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&color=272629)
+   ![UnoCSS](https://img.shields.io/badge/UnoCSS-blue?style=flat&logo=unocss&color=272629)
+
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
