@@ -10,7 +10,7 @@
   - 🌱 I’m currently learning &#160; 
    ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&color=272629)
    ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&color=272629)
-   ![UnoCSS](https://img.shields.io/badge/UnoCSS-blue?style=flat&logo=unocss&color=272629)
+
 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
